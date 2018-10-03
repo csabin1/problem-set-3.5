@@ -43,7 +43,7 @@ If you see the following starter code, then you've correctly cloned and setup yo
 
 ## Requirements
 
-Create a website about a (school-appropriate) topic that interests you. This might be an extracurricular activitiy in which you participate, a sport or instrument you play, or just a hobby of yours. For now, your website should be informative in nature. Later, we'll add some style and creative expression.
+Create a website about a (school-appropriate) topic that interests you. This might be an extracurricular activity in which you participate, a sport or instrument you play, or just a hobby of yours. For now, your website should be informative in nature. Later, we'll add some style and creative expression.
 
 More specifically, your website must include and incorporate the following features and elements.
 
