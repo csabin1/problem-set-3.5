@@ -1,7 +1,23 @@
 body {
-  background-color: #AFEEEE
+  background-color: #AFEEEE;
 }
-h1 {
-  font-family: monospace;
-  font-size: 30px;
+
+span {
+  background-color: red;
+} <---type selector
+
+#border {
+  border: 5px solid darkblue;
 }
+
+#underline {
+  text-decoration: underline wavy gray;
+}
+
+#imageshadow {
+  box-shadow: 10px 10px;
+}
+
+p.font {
+  font-style: italic;
+} <----class selector
