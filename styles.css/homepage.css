@@ -1,0 +1,210 @@
+body {
+  background-color: #AFEEEE;
+}
+* {
+  font-size: 20pt;
+}
+
+span {
+  background-color: yellow;
+}
+
+p {
+  font-family: Arial;
+  font-size: 15px;
+  text-align: center
+}
+
+img {
+  border: 5px;
+  border-radius: 4px;
+}
+
+table.highlight {
+  background-color: space gray;
+}
+
+p.border {
+  border-top: 10px solid crimson red;
+  border-right: 8px solid crimson red;
+  border-bottom: 10px solid crimson red;
+  border-left: 8px solid crimson red;
+}
+
+#border {
+  border: 5px solid darkblue;
+}
+
+#underline {
+  text-decoration: underline wavy gray;
+}
+
+* [lang^=en] {
+  background-color: ocean blue;
+}
+
+#imageshadow {
+  box-shadow: 10px 10px;
+}
+
+p.font {
+  font-style: italic;
+  text-align: center;
+}
+
+*h1 {
+  color: red;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 3px;
+}
+a{
+  color: black;
+  font-size: 15px;
+}
+
+a:hover {
+color: cadet blue;
+}
+
+ol > li {
+  font-style: normal;
+  list-style: none;
+}
+
+h2 + p {
+  font-size: 20px;
+}
+
+h3 ~ p {
+  font-family:
+}
+
+ul > li {
+  font-weight: bold;
+  list-style: none;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+table {
+   width: 80%;
+}
+
+th, td {
+   padding: 5px 5x 5x 5x;
+}
+
+th {
+   border-bottom: 2px solid #111111;
+   border-top: 1px solid #999999;
+   text-align: center;
+   text-transform: uppercase;
+}
+.footer {
+  font-size: 10pt;
+  color: black;
+}
+.footer:hover{
+  color: blue;
+  font-size:15pt;
+}
+#def {
+  font-size: 15pt;
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: white;
+  border-radius: 10px;
+  background-color: #4c5150;
+}
+#home {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  background-color: #effffb;
+}
+#page1 {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  background-color: #effffb;
+}
+#page2 {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  background-color: #effffb;
+}
+#page3 {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  background-color: #effffb;
+}
+img[src="Images/2000px-Red_star.svg.png"] {
+  height: 10px;
+  width: 10px;
+}
+#moreinfo {
+  font-size: 10pt;
+  color: black;
+}
+#moreinfo:hover{
+  color: blue;
+}
+.border {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  background-color: #effffb;
+}
+img[src="Images/rs-michael-phelps-7ffe00e9-e0c3-4778-bf12-8559af505182.jpg"]{
+   width: 430px;
+   height: 280px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+img[src="Images/soni_rebecca_080212_600x375.jpg"]{
+  width: 430px;
+  height: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img[src="Images/1303longcourseswimming740.jpg"]{
+  width: 430px;
+  height: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4 p {
+  font-weight: normal;
+  font-size: 20px;
+}
+img[src="Images/Short-Course-Competition-Pool-23583381686-720x500.jpg"]{
+  width: 430px;
+  height: 260px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
